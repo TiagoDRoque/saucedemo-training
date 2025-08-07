@@ -5,8 +5,6 @@ This repository contains a comprehensive testing project focused on:
 - ✍️ Manual test case design  
 - 🤖 Automated testing with Playwright (using Page Object Model)  
 - 🔁 CI/CD pipelines with GitHub Actions (Smoke and Regression tests)  
-- 🔌 API testing and database validation  
-- 🚀 Performance testing with k6  
 
 The project is based on the demo site: https://www.saucedemo.com/v1/
 
